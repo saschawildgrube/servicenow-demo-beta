@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices>error,warn,info,debug</choices>
+        <description>Defines logging verbosity for the app</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_snc_demo_beta.u_logging.verbosity</name>
+        <read_roles/>
+        <suffix>logging.verbosity</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 09:39:24</sys_created_on>
+        <sys_id>406119451b3a7510eca2777d8b4bcb64</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_demo_beta.u_logging.verbosity</sys_name>
+        <sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope>
+        <sys_update_name>sys_properties_406119451b3a7510eca2777d8b4bcb64</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 09:39:24</sys_updated_on>
+        <type>choicelist</type>
+        <value>info</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=406119451b3a7510eca2777d8b4bcb64"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</application>
+        <file_path/>
+        <instance_id>6cd7579f1b66b5549377eb9b2d4bcb46</instance_id>
+        <instance_name>cicddemodev</instance_name>
+        <name>sys_properties_406119451b3a7510eca2777d8b4bcb64</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices>error,warn,info,debug</choices><description>Defines logging verbosity for the app</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>x_snc_demo_beta.u_logging.verbosity</name><read_roles/><suffix>logging.verbosity</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-11-27 09:39:24</sys_created_on><sys_id>406119451b3a7510eca2777d8b4bcb64</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_demo_beta.u_logging.verbosity</sys_name><sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package><sys_policy/><sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope><sys_update_name>sys_properties_406119451b3a7510eca2777d8b4bcb64</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-11-27 09:39:24</sys_updated_on><type>choicelist</type><value>info</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=406119451b3a7510eca2777d8b4bcb64"/></record_update>]]></payload>
+        <payload_hash>917759664</payload_hash>
+        <record_name>x_snc_demo_beta.u_logging.verbosity</record_name>
+        <reverted_from/>
+        <source>980417401b7ab110eca2777d8b4bcb60</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 09:39:25</sys_created_on>
+        <sys_id>1b81d9451b3a7510eca2777d8b4bcb32</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c1025dca80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 09:39:25</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>1b819545d23a751064bf2b115a2ae062</update_guid>
+        <update_guid_history>1b819545d23a751064bf2b115a2ae062:917759664</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 09:39:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>6bcde91410174b9cb864d603d6811810</sys_id>
+        <sys_metadata>406119451b3a7510eca2777d8b4bcb64</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_demo_beta.u_logging.verbosity</sys_name>
+        <sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope>
+        <sys_scope_delete display_value="">1135a0a589de4dfd82b86eda76e958a1</sys_scope_delete>
+        <sys_update_name>sys_properties_406119451b3a7510eca2777d8b4bcb64</sys_update_name>
+        <sys_update_version display_value="sys_properties_406119451b3a7510eca2777d8b4bcb64">1b81d9451b3a7510eca2777d8b4bcb32</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 09:39:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

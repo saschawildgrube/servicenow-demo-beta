@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script/>
+        <description/>
+        <direct>false</direct>
+        <endpoint>x_snc_demo_beta_manual.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+	<h1>Demo Beta</h1>
+	
+</j:jelly>]]></html>
+        <name>manual</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 09:44:26</sys_created_on>
+        <sys_id>d2921d851b3a7510eca2777d8b4bcbff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>manual</sys_name>
+        <sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope>
+        <sys_update_name>sys_ui_page_d2921d851b3a7510eca2777d8b4bcbff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 09:44:26</sys_updated_on>
+    </sys_ui_page>
+</record_update>
