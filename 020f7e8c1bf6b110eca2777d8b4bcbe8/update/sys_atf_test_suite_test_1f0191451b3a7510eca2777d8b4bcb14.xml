@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>0</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 09:37:15</sys_created_on>
+        <sys_id>1f0191451b3a7510eca2777d8b4bcb14</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1b0191451b3a7510eca2777d8b4bcb11</sys_name>
+        <sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_1f0191451b3a7510eca2777d8b4bcb14</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 09:37:15</sys_updated_on>
+        <test display_value="Demo Beta - Test One">1b0191451b3a7510eca2777d8b4bcb11</test>
+        <test_suite display_value="Demo Beta">3c0151451b3a7510eca2777d8b4bcb00</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>
