@@ -14,15 +14,15 @@
 	
 	<h2>Release Notes</h2>
 
-	<h3>1.7.0 - TODO</h3>
+	<h3>1.7.0 - 2026-08-05</h3>
 	<ol>
-		<li>TODO: Document changes here...</li>
+		<li>Test</li>
 	</ol>
 
 
 	<h3>1.6.0 - 2026-07-02</h3>
 	<ol>
-		<li>Updated dependency to Demo Gamme to version 1.6.0.</li>
+		<li>Updated dependency to Demo Gamma to version 1.6.0.</li>
 	</ol>
 
 
@@ -38,14 +38,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-27 09:44:26</sys_created_on>
         <sys_id>d2921d851b3a7510eca2777d8b4bcbff</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>manual</sys_name>
         <sys_package display_value="Demo Beta WORK IN PROGRESS" source="x_snc_demo_beta">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_package>
         <sys_policy/>
         <sys_scope display_value="Demo Beta WORK IN PROGRESS">020f7e8c1bf6b110eca2777d8b4bcbe8</sys_scope>
         <sys_update_name>sys_ui_page_d2921d851b3a7510eca2777d8b4bcbff</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-07-02 14:31:15</sys_updated_on>
+        <sys_updated_on>2026-08-05 14:04:50</sys_updated_on>
     </sys_ui_page>
     <sys_es_latest_script action="INSERT_OR_UPDATE">
         <id>d2921d851b3a7510eca2777d8b4bcbff</id>
